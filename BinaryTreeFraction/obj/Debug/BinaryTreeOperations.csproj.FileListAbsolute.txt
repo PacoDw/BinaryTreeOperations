@@ -1,0 +1,9 @@
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\obj\Debug\BinaryTreeOperations.csprojResolveAssemblyReference.cache
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\obj\Debug\BinaryTreeOperations.Form1.resources
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\obj\Debug\BinaryTreeOperations.csproj.GenerateResource.Cache
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\bin\Debug\BinaryTreeOperations.exe.config
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\bin\Debug\BinaryTreeOperations.exe
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\bin\Debug\BinaryTreeOperations.pdb
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\obj\Debug\BinaryTreeOperations.Properties.Resources.resources
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\obj\Debug\BinaryTreeOperations.exe
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeOperations\BinaryTreeFraction\obj\Debug\BinaryTreeOperations.pdb

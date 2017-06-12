@@ -1,0 +1,9 @@
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\bin\Debug\BinaryTreeFraction.exe.config
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\bin\Debug\BinaryTreeFraction.exe
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\bin\Debug\BinaryTreeFraction.pdb
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\obj\Debug\BinaryTreeFraction.Form1.resources
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\obj\Debug\BinaryTreeFraction.Properties.Resources.resources
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\obj\Debug\BinaryTreeFraction.csproj.GenerateResource.Cache
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\obj\Debug\BinaryTreeFraction.exe
+C:\Users\Packo\documents\visual studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\obj\Debug\BinaryTreeFraction.pdb
+C:\Users\Packo\Documents\Visual Studio 2017\Projects\BinaryTreeFraction\BinaryTreeFraction\obj\Debug\BinaryTreeFraction.csprojResolveAssemblyReference.cache
